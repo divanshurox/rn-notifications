@@ -1,0 +1,12 @@
+{
+  "name": "rn-notifications",
+  "displayName": "rn-notifications",
+  "expo": {
+    "name": "rn-notifications",
+    "slug": "rn-notifications",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
